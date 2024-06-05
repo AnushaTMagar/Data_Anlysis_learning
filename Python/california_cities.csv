@@ -1,0 +1,16 @@
+City,Altitude,Population,Attraction,Area,Weather_type
+Los Angeles,285',4000000,"Mountains, beaches and downtown",503 sq. miles,Dry summer mediterrean climate
+San Diego,62',1420000,"Museums, zoo, aquariam and downtown",372.4 sq. miles,Arid mediterrean climate
+San Jose,82',1035000,"Museums, galleries and parks",180.5 sq. miles,"Warm,dry summer mediterrean climate"
+San Francisco,52',884363,"Downtown, beaches, piers, bridges",232 sq. miles,Warm summer mediterrean climate
+Fresno,308',527438,National parks,115 mi sq.,Semi-arid climate
+Sacramento,30',501901,"Museums, art and culture",100 sq. miles,Hot summer mediterrean climate
+Long Beach,52',469450,"Beaches, museum and bars",65.87 sq. miles,Arid warm summer mediterrean climate
+Oakland,43',425195,"Island, national park",78 sq. miles,Arid mediterrean climate
+Bakersfield,404',380874,Museum and parks,151 mi sq.,Hot dessert type climate
+Fremont,56',234962,Mountains and hiking places,87.62 sq. miles,"warm,dry summer mediterrean climate"
+Berkeley,171',122324,Science-art museums and parks,16 sq. miles,Cool summer mediterrean climate
+Mountain View,105',81438,Headquaters and parks,12.27 sq.miles,Arid mediterrean climate
+Santa Cruz,36',65021,Beaches,16 sq. miles,"Warm,dry summer mediterrean climate"
+Monterey,26',28639,Marine sanctuary,12.25 mi sq.,Cool summer mediterrean climate
+California city,259',14000,Natural areas and parks,203.5 sq. miles,Arid hot summer mediterrean climate
